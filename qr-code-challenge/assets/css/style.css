@@ -21,7 +21,7 @@ body {
 }
 
 .qr-wrapper {
-  margin: auto;
+  margin: auto 10px;
   max-width: 300px;
   background: var(--white);
   border-radius: 16px;
